@@ -1,6 +1,6 @@
 # Semana 1 - Ejercicios con NumPy
 
-En este trabajo realicé una serie de ejercicios prácticos utilizando la librería NumPy en Python, enfocados en el uso de arrays y matrices con google colab.
+En este trabajo realicé una serie de ejercicios prácticos utilizando la librería NumPy en Python, enfocados en el uso de arrays y matrices con google colab. Desde esta ultima herramienta utilicé la opción "guardar una copia en github" y enlacé mi cuenta de google colab con github. Algo que me pareció muy practico.
 
 ## Contenidos trabajados de acuerdo a las pautas de esta semana de trabajo
 
