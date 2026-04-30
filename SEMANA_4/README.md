@@ -1,1 +1,2 @@
 
+Actividad 2: En esta actividad se utilizó un modelo de regresión logística para clasificar el sistema operativo de los usuarios en función de su comportamiento en el sitio web. Se utilizaron variables como duración de la visita, cantidad de páginas vistas y acciones realizadas. El modelo fue entrenado con datos de entrenamiento y evaluado con datos de prueba, obteniendo métricas de clasificación que permiten medir su desempeño.
