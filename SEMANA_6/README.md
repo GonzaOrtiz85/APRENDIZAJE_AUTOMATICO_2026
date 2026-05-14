@@ -70,7 +70,7 @@ Como parte de la entrega, se realizó una presentación grabada en la que se exp
 
 ### Enlace al video
 
-(https://youtu.be/DU648STzifA)
+https://youtu.be/HLkxuiF8VJ8
 
 ---
 
